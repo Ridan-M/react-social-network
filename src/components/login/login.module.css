@@ -1,0 +1,40 @@
+.wrapper {
+    min-width: 70%;
+    background-color: white;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.2);
+    border-radius: 15px;
+    display: inline-block;
+
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+}
+.input{
+    padding: 5px 20px;
+    margin-bottom: 10px;
+    border: 2px solid #9FEDD7 ;
+    border-radius: 5px;
+}
+.form__content{
+    display: flex;
+    flex-direction: column;
+}
+.prompt {
+   margin-top: -60px;
+    display: flex;
+    flex-direction: column;
+}
+.error {
+    margin-top: 15px;
+    color: red;
+}
+
+.form__btn {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #9FEDD7;
+    border: none;
+
+}

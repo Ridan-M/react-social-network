@@ -1,0 +1,10 @@
+
+.wrapper {
+    position: fixed;
+    margin: 50px 30px;
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid black;
+    width: 15%;
+
+}
