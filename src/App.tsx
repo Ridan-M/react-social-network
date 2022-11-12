@@ -13,7 +13,7 @@ const App: FC = () => {
     const {setAuth} = useAuthActions();
     useEffect(() => {
         setAuth()
-    })
+    }, [])
 
     return (
         <div className='app'>
