@@ -21,7 +21,7 @@ const App: FC = () => {
             <Navbar/>
             <div className="content">
                 {loading
-                    ? 'Загрузка'
+                    ? 'Загрузкаа'
                     : <Router isAuth={isAuth}/>
                 }
             </div>

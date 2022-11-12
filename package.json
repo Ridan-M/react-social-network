@@ -2,7 +2,7 @@
   "name": "my-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ridan-m.github.io/react-social-network/",
+  "homepage": "https://ridan-m.github.io/react-social-network",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -21,7 +21,7 @@
     "react-scripts": "5.0.1",
     "redux": "^4.2.0",
     "redux-thunk": "^2.4.1",
-    "typescript": "^4.8.4",
+    "typАescript": "^4.8.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
