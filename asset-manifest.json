@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-social-network/static/css/main.d37748ac.css",
-    "main.js": "/react-social-network/static/js/main.76c5f2bc.js",
+    "main.js": "/react-social-network/static/js/main.49a2a7e8.js",
     "static/media/GitHub_Logo.png": "/react-social-network/static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
     "index.html": "/react-social-network/index.html",
     "main.d37748ac.css.map": "/react-social-network/static/css/main.d37748ac.css.map",
-    "main.76c5f2bc.js.map": "/react-social-network/static/js/main.76c5f2bc.js.map"
+    "main.49a2a7e8.js.map": "/react-social-network/static/js/main.49a2a7e8.js.map"
   },
   "entrypoints": [
     "static/css/main.d37748ac.css",
-    "static/js/main.76c5f2bc.js"
+    "static/js/main.49a2a7e8.js"
   ]
 }
