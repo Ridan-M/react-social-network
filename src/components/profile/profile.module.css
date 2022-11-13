@@ -1,5 +1,6 @@
 .profile__container {
     width: 100%;
+    min-width: 500px;
 }
 
 .user_info__container {

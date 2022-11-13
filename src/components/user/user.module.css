@@ -2,6 +2,7 @@
 .user__container {
     padding: 10px;
     margin-right: 100px;
+    min-width: 500px;
 }
 
 
